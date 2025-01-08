@@ -28,7 +28,7 @@ const SpecialOffer = () => {
                     expectations. Your journey with us is nothing short of exceptional.
                 </p>
                 <div className="mt-11 flex flex-wrap gap-4">
-                    <Button label="Shop Now"/>
+                    <Button label="View Details"/>
                     <Button
                         label="Learn More"
                         backgroundColor="bg-white"
